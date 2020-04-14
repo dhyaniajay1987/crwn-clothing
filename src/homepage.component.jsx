@@ -34,6 +34,12 @@ export const HomePage = () => {
                         <div className='title'> MENS</div>
                         <div className='subtitle'>Shop Now</div>
                     </div>
+                </div
+				<div className='menu-item'>
+                    <div className='content'>
+                        <div className='title'> KIDS</div>
+                        <div className='subtitle'>Shop Now</div>
+                    </div>
                 </div>
             </div>
         </div>
